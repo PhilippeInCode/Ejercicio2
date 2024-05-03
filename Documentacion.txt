@@ -1,0 +1,3 @@
+Para la ejecución del ejercio primero vamos a introducir un index.html
+Posteriormente hemos añadido un style.css para mejorar la apariencia visual del mismo
+Comprobamos que no haya habido ningún conflicto para preservar la integridad de la página
